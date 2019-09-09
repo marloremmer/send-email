@@ -1,0 +1,18 @@
+{
+    "name": "marlo/send-email",
+    "description": "This will send email using PHPMailer or SwiftMailer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marloremmer",
+            "email": "macaraegmarlo1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
